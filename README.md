@@ -6,6 +6,9 @@ one more digit than the previous row (similar to a Pascal's Triangle). The numbe
 
 Pressing the "Next" button will move the 1 on the board one row down and one across, either to the left or right.
 The horizontal direction the 1 moves is decided randomly.
+The strange shape bell shape of the board is not intentional. It was my attempt to space the number labels out.
+Althought it does not look like a Galton Board (which is a triangle), it still serves its purpose as it is still
+possible to see which 0 is to the lower left of the 1 and which is to the lower right.
 
 When the 1 reaches the bottom row, it will be added permanently to the row, and the 1 will move back to the top.
 The corresponding space in the Graph will increase in height.
